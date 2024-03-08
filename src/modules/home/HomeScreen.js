@@ -1,12 +1,4 @@
-import {
-  Text,
-  StyleSheet,
-  View,
-  SafeAreaView,
-  TouchableOpacity,
-  Image,
-  ScrollView,
-} from 'react-native';
+import {Text, StyleSheet, SafeAreaView, ScrollView} from 'react-native';
 import React, {Component} from 'react';
 import Header from '../../components/header/Header';
 import Loading from '../../components/loading/Loading';
